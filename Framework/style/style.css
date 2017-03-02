@@ -6,3 +6,7 @@ html {
 #TitleBar {
     padding-top: 20px;
 }
+
+#footerText {
+    font-size: .6em;
+}
