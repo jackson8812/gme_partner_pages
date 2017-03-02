@@ -1,6 +1,13 @@
 html {
     max-width: 1200px;
     margin: 0 auto;
+    background: #a8a9ad;
+}
+
+#bannerImage {
+    -webkit-box-shadow: 0px 5px 27px -5px rgba(0,0,0,0.61);
+    -moz-box-shadow: 0px 5px 27px -5px rgba(0,0,0,0.61);
+    box-shadow: 0px 5px 27px -5px rgba(0,0,0,0.61);
 }
 
 #TitleBar {
@@ -8,5 +15,5 @@ html {
 }
 
 #footerText {
-    font-size: .6em;
+    font-size: .7em;
 }
